@@ -45,9 +45,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Esatduman/Esatduman/output/snake.svg" alt="Snake animation" />
 
 ###
 
