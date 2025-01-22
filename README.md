@@ -66,9 +66,9 @@ Learning and implementing new technologies.
 Collaborating with diverse teams to create impactful software solutions.
 Solving real-world problems with innovative engineering practices.
 📫 Get in Touch
-📧 Email: [your-email@example.com]
-🌐 Portfolio: [your-portfolio-link.com]
-🔗 LinkedIn: linkedin.com/in/esatduman
+📧 Email: Esatduman214@gmail.com
+🌐 Portfolio: https://main.dzuczl0ogxb84.amplifyapp.com/
+🔗 LinkedIn: https://www.linkedin.com/in/esat-duman/
 
 🌟 Let's Build Together
 Feel free to check out my repositories or reach out for collaborations on interesting projects. Let’s innovate and create amazing things!</p>
