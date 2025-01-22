@@ -44,7 +44,34 @@
 </div>
 
 ###
+<p>🎯 Software Engineer | Problem Solver | Innovator
 
+👨‍💻 About Me
+I’m a passionate software engineer with a strong focus on developing scalable, efficient, and user-centric solutions. With expertise in both front-end and back-end development, I enjoy tackling complex problems and turning ideas into functional, well-crafted applications.
+
+💻 Key Skills:
+
+Front-End: React.js, JavaScript, HTML, CSS
+Back-End: Python, Django, Node.js
+DevOps & Cloud: AWS, Netlify
+Databases: MySQL, PostgreSQL, MongoDB
+Tools: Git, Docker, VS Code
+⚙️ What I’m Working On:
+
+Developing an AI-powered text summarization app, Sum.ai, leveraging Django, LangChain, and React.js.
+Building secure and reliable web applications, focusing on user authentication and seamless integration with cloud platforms.
+🚀 What Drives Me:
+
+Learning and implementing new technologies.
+Collaborating with diverse teams to create impactful software solutions.
+Solving real-world problems with innovative engineering practices.
+📫 Get in Touch
+📧 Email: [your-email@example.com]
+🌐 Portfolio: [your-portfolio-link.com]
+🔗 LinkedIn: linkedin.com/in/esatduman
+
+🌟 Let's Build Together
+Feel free to check out my repositories or reach out for collaborations on interesting projects. Let’s innovate and create amazing things!</p>
 
 
 ###
