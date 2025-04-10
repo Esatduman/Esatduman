@@ -12,12 +12,8 @@ Back-End: Python, Django, Node.js
 DevOps & Cloud: AWS, Netlify
 Databases: MySQL, PostgreSQL, MongoDB
 Tools: Git, Docker, VS Code
-⚙️ What I’m Working On:
 
-Developing an AI-powered text summarization app, Sum.ai, leveraging Django, LangChain, and React.js.
-Building secure and reliable web applications, focusing on user authentication and seamless integration with cloud platforms.
 🚀 What Drives Me:
-
 Learning and implementing new technologies.
 Collaborating with diverse teams to create impactful software solutions.
 Solving real-world problems with innovative engineering practices.
