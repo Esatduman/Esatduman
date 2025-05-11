@@ -19,7 +19,7 @@ Collaborating with diverse teams to create impactful software solutions.
 Solving real-world problems with innovative engineering practices.
 📫 Get in Touch
 📧 Email: Esatduman214@gmail.com
-🌐 Portfolio: https://main.dzuczl0ogxb84.amplifyapp.com/
+🌐 Portfolio: esatduman.com
 🔗 LinkedIn: https://www.linkedin.com/in/esat-duman/
 
 🌟 Let's Build Together
