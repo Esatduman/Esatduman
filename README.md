@@ -27,12 +27,6 @@ Feel free to check out my repositories or reach out for collaborations on intere
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Esatduman&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Esatduman&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esatduman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/BZPllcaHOWAAAAAC/intial-d-ae86.gif"  />
